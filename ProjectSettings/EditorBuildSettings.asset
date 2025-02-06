@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newMenu.unity
     guid: 3065d81d2c222354c8bac3e3b8b2d048
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newLevel.unity
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 1.unity
     guid: 1448300bcdf98484bbde8b3546ad83d9
   m_configObjects: {}
