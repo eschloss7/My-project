@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 2.unity
     guid: 7962ae9fece6b3e4f974797e3a53a8b9
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 3.unity
+    guid: 17e6697b442b4c24fab36b594bff4f75
   m_configObjects: {}
